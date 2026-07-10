@@ -16,7 +16,7 @@ const TermsAndConditions = () => {
           Agreement to Legal Terms
         </h2>
         <p>
-          By accessing or using DrMamataJain.com (the "Website") and any of the services 
+          By accessing or using MamataJain.com (the "Website") and any of the services 
           provided through the Website—including SaaS platforms, online courses, podcasts, 
           events, travel services, real estate services, and other offerings—you agree to be 
           bound by these Terms and Conditions (the "Terms"). These Terms apply to all users, 
@@ -284,7 +284,7 @@ const TermsAndConditions = () => {
     </div>
 
     <p className="text-sm text-gray-500 mt-10 text-center">
-      © {new Date().getFullYear()} DrMamataJain.com. All Rights Reserved.
+      © {new Date().getFullYear()} MamataJain.com. All Rights Reserved.
     </p>
   </div>
 </div>
