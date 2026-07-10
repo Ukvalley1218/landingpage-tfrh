@@ -250,7 +250,7 @@ const Footer = () => {
     
                         <p className="text-center text-gray-300 text-sm">
                             © {new Date().getFullYear()}
-                            <a href="https://drmamatajain.com/" target="blank" className="hover:text-yellow-400 cursor-pointer"> Dr. Mamata Dhiraj Jain. </a>
+                            <a href="https://drmamatajain.com/" target="blank" className="hover:text-yellow-400 cursor-pointer">  Mamata Dhiraj Jain. </a>
                             All Rights Reserved.
                         </p>
     

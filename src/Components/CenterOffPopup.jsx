@@ -102,7 +102,7 @@ export default function CenterOfferPopup() {
         </button>
 
         <h2 style={title}>Dubai Rental Wealth Simplified</h2>
-        <p style={author}>By <strong>Dr. Mamata Jain</strong></p>
+        <p style={author}>By <strong> Mamata Jain</strong></p>
 
         <img src={ceo} alt="Dubai Rental Wealth Simplified" style={bookImage} />
 

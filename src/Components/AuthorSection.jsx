@@ -444,7 +444,7 @@ const AuthorSection = () => {
             color: COLORS.gold,
             textDecoration: "underline",
           }}>
-                   <a href="https://DrMamataJain.com" target='_blank'>Dr. Mamata Dhiraj Jain</a> 
+                   <a href="https://DrMamataJain.com" target='_blank'> Mamata Dhiraj Jain</a> 
           </div>
           {/* Info List */}
           <ul className="author-info-list text-justify" style={{
@@ -491,7 +491,7 @@ const AuthorSection = () => {
           {/* Image above */}
           <img loading="lazy"
             src={mainimage}
-            alt="Dr. Mamata Dhiraj Jain"
+            alt=" Mamata Dhiraj Jain"
             className="author-image"
             style={{
               objectFit: "cover",
@@ -515,7 +515,7 @@ const AuthorSection = () => {
             Beyond the Book: A Legacy of Impact
           </center>
           <center className="lg:text-[22px] text-[20px] text-white mt-5 text-justify">
-            Dr. Mamata Dhiraj Jain has been recognised for her academic excellence
+             Mamata Dhiraj Jain has been recognised for her academic excellence
             and pioneering innovations in real estate. She earned her{" "}
             <span className="text-[#F9C646]">PhD in 2025 </span>
             for groundbreaking research on FDI and Dubai’s Property Market

@@ -94,7 +94,7 @@ const TermsAndConditions = () => {
         </h2>
         <p>
           All content, designs, trademarks, software, images, and intellectual property on 
-          the Website are owned by Dr. Mamata Dhiraj Jain or licensed appropriately. Users 
+          the Website are owned by  Mamata Dhiraj Jain or licensed appropriately. Users 
           may not reproduce, distribute, modify, or exploit any materials without written 
           permission.
         </p>
@@ -274,7 +274,7 @@ const TermsAndConditions = () => {
           Contact Information
         </h2>
         <p>
-          <strong>Owner: Dr. Mamata Dhiraj Jain</strong><br />
+          <strong>Owner:  Mamata Dhiraj Jain</strong><br />
           Email: support@1XL.com<br />
           UAE Address: Floor 141, Burj Khalifa, Dubai, P.O. Box No. 191234<br />
           India Address: Jainam Tower, Sai Park, Thergaon, Pune - 411033, Maharashtra, India

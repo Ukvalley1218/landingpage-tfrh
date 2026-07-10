@@ -59,7 +59,7 @@ const testimonials = [
     name: 'Marcus Johnson',
     position: 'New York, USA',
     stars: 5,
-    text: "\"The tax optimization strategies are brilliant. Dr. Mamata Jain's expertise shines through every chapter. I've recommended this book to all my clients interested in international real estate.\"",
+    text: "\"The tax optimization strategies are brilliant.  Mamata Jain's expertise shines through every chapter. I've recommended this book to all my clients interested in international real estate.\"",
     badge: 'Investment Consultant'
   },
 ];

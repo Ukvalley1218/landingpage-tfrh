@@ -599,7 +599,7 @@ export default function DubaiWealthHero() {
                 position: 'relative',
                 zIndex: 1,
                 boxShadow: 'none',
-                maxWidth: '700px',
+                maxWidth: '800px',
                 width: '100%',
                 display: 'block',
                 margin: '0 auto',
